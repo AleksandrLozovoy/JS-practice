@@ -1,0 +1,9 @@
+@import "vars";
+@import "mixins";
+@import "vendor/reset";
+
+*,
+*:after,
+*:before {
+  box-sizing: border-box;
+}
